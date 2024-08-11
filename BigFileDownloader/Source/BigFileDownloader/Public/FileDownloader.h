@@ -8,7 +8,6 @@
 #include "Interfaces/IHttpRequest.h"
 #include "Interfaces/IHttpResponse.h"
 #include "Subsystems/WorldSubsystem.h"
-#include "Async/Async.h"
 #include "JsonObjectConverter.h"
 #include "FileDownloader.generated.h"
 
